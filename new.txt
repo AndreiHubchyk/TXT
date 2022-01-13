@@ -1,1 +1,5 @@
-
+Surname = Hubchyk 
+Name = Andrei
+Age=25
+Pets =null
+Future desired salary = 850 dollars

@@ -1,0 +1,5 @@
+Favorite movie =John Wick
+Favorite TV series = Suits
+Favorite food = Pizza
+Favorite time of year = Summer
+Future desired salary = Finland
